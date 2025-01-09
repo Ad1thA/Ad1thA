@@ -34,5 +34,3 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
     <img src="https://skillicons.dev/icons?i=js,java,py,mongodb,mysql,git,figma" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
 </div>
-
-
