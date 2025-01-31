@@ -12,7 +12,7 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
   <br>Mastering the art of crafting intuitive and visually stunning **UI/UX designs** with React and Tailwind CSS. <br><br>
 
 - 💡 **Ask Me About:**  
-  How I accidentally turned a bug into a feature or why coffee is the best debugger.. ☕🐞 <br><br> 
+  How I accidentally turned a bug into a feature or why coffee is the best debugger. ☕🐞 <br><br> 
 
 - 📫 **Let's Connect:**  
   Reach out to me at **[adithaeshana8899@gmail.com](mailto:adithaeshana8899@gmail.com)**.
