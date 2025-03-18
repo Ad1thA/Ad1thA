@@ -1,7 +1,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG41aWhibXhkZ2VwNGR2anJ6dHhuMXY0dGlsdWdvam50aHptejFzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp" align="center" alt="Banner" height="200" width="2000">
 
 
-<h1 align="center">Hi! 👋, I'm Aditha Rajapaksha</h1>
+<h1 align="center">Hi 👋, I'm Aditha Rajapaksha</h1>
 <h3 align="center">A passionate Web developer</h3> 
 
 
